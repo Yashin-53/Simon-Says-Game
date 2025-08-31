@@ -1,14 +1,15 @@
 body {
   text-align: center;
-  background-color: #819ff9;
+  background-color: #243158;
+  color: white;
 }
 
 .btn {
   height: 200px;
   width: 200px;
   border-radius: 20%;
-  border: 10px solid black;
-  margin: 2.5rem;
+  border: 8px solid rgb(0, 4, 238);
+  margin: 1.5rem;
 }
 
 .btn-container {
@@ -17,7 +18,7 @@ body {
 }
 
 .yellow {
-  background-color: orange;
+  background-color: rgb(234, 255, 47);
 }
 
 .red {
@@ -29,7 +30,7 @@ body {
 }
 
 .green {
-  background-color: rgb(255, 255, 60);
+  background-color: rgb(0, 255, 4);
 }
 
 .flash {
@@ -37,7 +38,7 @@ body {
 }
 
 .userflash {
-  background-color: green;
+  background-color: rgb(168, 255, 252);
 }
 
 
@@ -49,8 +50,8 @@ body {
   .btn {
     height: 100px;
     width: 100px;
-    border-radius: 10%;
-    border: 5px solid black;
-    margin: 1.25rem;
+    border-radius: 20%;
+    border: 5px solid rgb(0, 4, 238);
+    margin: 1rem;
   }
 }
